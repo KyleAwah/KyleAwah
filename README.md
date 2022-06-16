@@ -1,7 +1,9 @@
 <div align="center">
     <image src="images/kylebanner.gif"></image>
 </div>
+
 ### Hey 👋 
+
 ### Languages & Tools:
 <image height="30px" src="icons/ajax.png"></image> &nbsp;
 <image height="30px" src="icons/c%2B%2B.png"></image> &nbsp;
