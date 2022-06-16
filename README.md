@@ -1,4 +1,6 @@
-<image src="images/kylebanner.gif"></image>
+<div align="center">
+    <image src="images/kylebanner.gif"></image>
+</div>
 ### Hey 👋 
 ### Languages & Tools:
 <image height="30px" src="icons/ajax.png"></image> &nbsp;
