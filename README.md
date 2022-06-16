@@ -2,8 +2,11 @@
     <image src="images/kylebanner.gif"></image>
 </div>
 
-### Hi There!👋🏼
+### Hi There! 👋🏼
 <p> something </p>
+
+### Find Me 📱:
+<image height="30px" src="icons/ajax.png"></image> &nbsp;
 
 ### Languages, Frameworks, Tools & More 👨🏽‍💻:
 <image height="30px" src="icons/ajax.png"></image> &nbsp;
