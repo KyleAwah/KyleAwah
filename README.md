@@ -4,7 +4,7 @@
 
 ### Hey 👋 
 
-### Languages, Frameworks, Tools & More:
+### 👨🏽‍💻 Languages, Frameworks, Tools & More:
 <image height="30px" src="icons/ajax.png"></image> &nbsp;
 <image height="30px" src="icons/c%2B%2B.png"></image> &nbsp;
 <image height="30px" src="icons/clogo.png"></image> &nbsp;
