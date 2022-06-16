@@ -11,7 +11,7 @@
 [![image-text](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](http://twitter.com/itskylehalo) &nbsp;
 [![image-text](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/kylehalo) &nbsp;
 
-### Languages, Frameworks, Tools & More 👨🏽‍💻:
+### Languages, Frameworks, Tools & More:
 <image height="30px" src="icons/ajax.png"></image> &nbsp;
 <image height="30px" src="icons/c%2B%2B.png"></image> &nbsp;
 <image height="30px" src="icons/clogo.png"></image> &nbsp;
