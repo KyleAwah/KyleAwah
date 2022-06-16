@@ -5,13 +5,12 @@
 ### Hey there! 👋🏼
 <p> something </p>
 
-<image height="30px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></image> &nbsp;
-<image height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></image> &nbsp;
-<image height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></image> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<image height="30px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></image> &nbsp;
-<image height="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></image> &nbsp;
-<image height="30px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></image>
-
+[![image-text](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kyleawah.github.io/new/) &nbsp;
+[![image-text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/kyleawah/) &nbsp;
+[![image-text](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://kyleawah.github.io/new/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[![image-text](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/itskylehalo/) &nbsp;
+[![image-text](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](http://twitter.com/itskylehalo) &nbsp;
+[![image-text](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/kylehalo) &nbsp;
 
 ### Languages, Frameworks, Tools & More 👨🏽‍💻:
 <image height="30px" src="icons/ajax.png"></image> &nbsp;
