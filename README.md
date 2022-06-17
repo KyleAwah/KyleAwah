@@ -1,4 +1,4 @@
-[![image-text](images/kylebanner.gif)](https://www.deviantart.com/5ldo0on/art/Weather-Station-886484733) &nbsp;
+[![image-text](images/kylebanner.gif)](https://www.deviantart.com/5ldo0on/art/Weather-Station-886484733)
 
 ### Hey there! 👋🏼
 <p> I'm Kyle a software developer from the little island of Trinidad 🇹🇹 in the Caribbean. I love to develop revolutionary software that impacts the world we experience every day! </p>
