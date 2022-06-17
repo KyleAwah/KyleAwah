@@ -1,4 +1,3 @@
-<image src="images/kylebanner.gif"></image>
 [![image-text](images/kylebanner.gif)](https://www.deviantart.com/5ldo0on/art/Weather-Station-886484733) &nbsp;
 
 ### Hey there! 👋🏼
