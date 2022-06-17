@@ -1,6 +1,4 @@
-<div align="center">
-    <image src="images/kylebanner.gif"></image>
-</div>
+<image src="images/kylebanner.gif"></image>
 
 ### Hey there! 👋🏼
 <p> I'm Kyle a software developer from the little island of Trinidad 🇹🇹 in the Caribbean. I love to develop revolutionary software that impacts the world we experience every day! </p>
