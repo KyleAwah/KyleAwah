@@ -1,5 +1,5 @@
 <div align="center">
-    <image src="images/kylebanner.gif"></image>
+    <image src="images/kylebanner1.gif"></image>
 </div>
 
 ### Hey there! 👋🏼
