@@ -1,7 +1,7 @@
 [![image-text](images/kylebanner.gif)](https://www.deviantart.com/5ldo0on/art/Weather-Station-886484733)
 
 ### Hey there! 👋🏼
-<p> I'm Kyle a software developer from the little island of Trinidad 🇹🇹 in the Caribbean. I love to develop revolutionary software that impacts the world we experience every day! </p>
+<p> I'm Kyle a full-stack web & mobile software developer from the little island of Trinidad 🇹🇹 in the Caribbean. I love to develop revolutionary software that impacts the world we experience every day! </p>
 
 [![image-text](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kyleawah.github.io/) &nbsp;
 [![image-text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/kyleawah/) &nbsp;
